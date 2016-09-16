@@ -1,0 +1,18 @@
+typography_spectrum: 0.8433344829827547
+color:
+  brandStrength: 0.12417965079657733
+  lightness: 0.1257487265393138
+  saturation: 0.264848037622869
+  rhythmicContrast: 0.22243183897808194
+github: true
+layout_spectrum: 0.05427623074501753
+author:
+  email: Igotfu@gmail.com
+  url: igotfu.com
+name: igotfuii
+title: Fu II is coming for you!
+description: it's the mastery of
+purpose:
+  - type: external
+    url: 'http://www.cdbaby.com/cd/fu2'
+    label: Buy Fu you fool!
